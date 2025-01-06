@@ -15,7 +15,7 @@ Bu proje, mikroservisler arasında yük dengeleme ve doğrulama için Flask ile 
 ### **1. Projenin Klonlanması**
 Öncelikle projeyi bilgisayarınıza klonlayın:
 ```bash
-git clone https://github.com/kullanici-adi/proje-adi.git
+git clone git clone https://github.com/mehmetalitilgen/API-Gateway.git
 cd proje-adi
 ```
 ### **2. .env Dosyasını Oluşturma**
